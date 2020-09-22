@@ -1,2 +1,2 @@
 config:
-  info: version:1.0,name:lbw
+  info: version:1.0,name:lbw,where:dev-config
